@@ -1,0 +1,83 @@
+C:\Users\Player Ghost\source\repos\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.exe
+C:\Users\Player Ghost\source\repos\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.deps.json
+C:\Users\Player Ghost\source\repos\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.runtimeconfig.json
+C:\Users\Player Ghost\source\repos\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.runtimeconfig.dev.json
+C:\Users\Player Ghost\source\repos\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.dll
+C:\Users\Player Ghost\source\repos\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.pdb
+C:\Users\Player Ghost\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.csprojAssemblyReference.cache
+C:\Users\Player Ghost\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfoInputs.cache
+C:\Users\Player Ghost\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfo.cs
+C:\Users\Player Ghost\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.csproj.CoreCompileInputs.cache
+C:\Users\Player Ghost\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.dll
+C:\Users\Player Ghost\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.pdb
+C:\Users\Player Ghost\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.genruntimeconfig.cache
+C:\Users\Player Ghost\source\repos\MapReduceDictionary\obj\Debug\netcoreapp3.1\MapReduce.csprojAssemblyReference.cache
+C:\Users\Player Ghost\source\repos\MapReduceDictionary\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfoInputs.cache
+C:\Users\Player Ghost\source\repos\MapReduceDictionary\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfo.cs
+C:\Users\Player Ghost\source\repos\MapReduceDictionary\obj\Debug\netcoreapp3.1\MapReduce.csproj.CoreCompileInputs.cache
+C:\Users\Player Ghost\source\repos\MapReduceDictionary\obj\Debug\netcoreapp3.1\MapReduce.dll
+C:\Users\Player Ghost\source\repos\MapReduceDictionary\obj\Debug\netcoreapp3.1\MapReduce.pdb
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.exe
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.deps.json
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.runtimeconfig.json
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.runtimeconfig.dev.json
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.dll
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.pdb
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.csprojAssemblyReference.cache
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfoInputs.cache
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfo.cs
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.csproj.CoreCompileInputs.cache
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.dll
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.pdb
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.genruntimeconfig.cache
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\Renato Vidal\Downloads\MapReduce (1)\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.csproj.CopyComplete
+C:\Users\victo\source\repos\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.exe
+C:\Users\victo\source\repos\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.deps.json
+C:\Users\victo\source\repos\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.runtimeconfig.json
+C:\Users\victo\source\repos\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.runtimeconfig.dev.json
+C:\Users\victo\source\repos\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.dll
+C:\Users\victo\source\repos\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.pdb
+C:\Users\victo\source\repos\MapReduce\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\victo\source\repos\MapReduce\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\victo\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfo.cs
+C:\Users\victo\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.csproj.CopyComplete
+C:\Users\victo\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.dll
+C:\Users\victo\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.pdb
+C:\Users\victo\source\repos\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.genruntimeconfig.cache
+C:\Users\victo\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\MapReduce.exe
+C:\Users\victo\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\MapReduce.deps.json
+C:\Users\victo\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\MapReduce.runtimeconfig.json
+C:\Users\victo\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\MapReduce.runtimeconfig.dev.json
+C:\Users\victo\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\MapReduce.dll
+C:\Users\victo\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\MapReduce.pdb
+C:\Users\victo\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\victo\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\victo\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfo.cs
+C:\Users\victo\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.csproj.CopyComplete
+C:\Users\victo\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.dll
+C:\Users\victo\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.pdb
+C:\Users\victo\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.genruntimeconfig.cache
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.csprojAssemblyReference.cache
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfoInputs.cache
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfo.cs
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.csproj.CoreCompileInputs.cache
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.dll
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.pdb
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\MapReduce.exe
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\MapReduce.deps.json
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\MapReduce.runtimeconfig.json
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\MapReduce.runtimeconfig.dev.json
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\MapReduce.dll
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\MapReduce.pdb
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.csproj.CopyComplete
+C:\Users\Player Ghost\source\repos\MapReduce - SpinLock\obj\Debug\netcoreapp3.1\MapReduce.genruntimeconfig.cache

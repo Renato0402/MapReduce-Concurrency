@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LImHIwHBC0DsW5hcDbDrttshUSnRkcKb8RrNtwGXl9hWe2qvns2V2tYrpxx+tIgFIiuAOkLMbu5lHPURV6xZCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Player Ghost\\source\\repos\\MapReduce - SpinLock\\MapReduce.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Player Ghost\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
